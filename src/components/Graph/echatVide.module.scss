@@ -1,0 +1,14 @@
+.echat_content {
+  > div:first-child {
+    height: 100% !important;
+    width: 100% !important;
+    canvas {
+      height: 100% !important;
+      width: 100% !important;
+    }
+  }
+}
+
+.content {
+  padding: 3px;
+}

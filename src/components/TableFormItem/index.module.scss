@@ -1,0 +1,63 @@
+.form {
+  padding: 20px 20px 0;
+  overflow-y: auto;
+  color: rgb(96, 98, 102);
+}
+.table_title {
+  height: 50px;
+  background: #ecf4ff;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  line-height: 10px;
+}
+
+.tabs_content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.tabs_item {
+  text-align: center;
+  padding-bottom: 20px;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.tabel {
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.tabel_jia {
+  color: #76ea0f;
+  margin-bottom: 22px;
+}
+
+.tabel_jian {
+  color: #e14513;
+  margin-bottom: 22px;
+}
+
+.dynamic_input_item {
+  padding-right: 10px;
+}
+
+.label_class_name {
+  display: none;
+}
+
+.text {
+  padding-bottom: 15px;
+}
+
+.dynamic_input_item_content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.el-date-editor .el-input {
+  width: 100%;
+}
